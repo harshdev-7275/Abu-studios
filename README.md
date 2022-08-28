@@ -9,12 +9,12 @@ ____
   ---
 ## About this website
  >* This is template of UI designer in dribble 
- >* I tried to make template to a running website usin html and css. You can view my version by clicking [here]().
+ >* I tried to make template to a running website usin html and css. You can view my version by clicking [here](https://abu-studios.netlify.app/).
 
  ## Video Walkthrough (click on the image to watch video)
 
   * ### Desktop View
-    >  
+    >  !(https://raw.githubusercontent.com/harshdev-7275/Abu-studios/main/img/desktop.png)
        
 
 
@@ -25,7 +25,7 @@ ____
 
   * ### Mobile View
 
-    > 
+    >  !(https://raw.githubusercontent.com/harshdev-7275/Abu-studios/main/img/mobileview.png)
 
 
 ---
