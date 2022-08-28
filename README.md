@@ -14,15 +14,9 @@ ____
  ## Video Walkthrough (click on the image to watch video)
 
   * ### Desktop View
-<<<<<<< HEAD
-    >  !(https://raw.githubusercontent.com/harshdev-7275/Abu-studios/main/img/desktop.png)
-=======
-    >  
 
+> <img src='https://raw.githubusercontent.com/harshdev-7275/Abu-studios/main/img/desktop.png' width=''  />
 
-            desktop.png
-          
->>>>>>> b21c12b3a2fa4c59cb3ef1f329b540b06a298c3e
        
 
 
@@ -33,11 +27,7 @@ ____
 
   * ### Mobile View
 
-    >  !(https://raw.githubusercontent.com/harshdev-7275/Abu-studios/main/img/mobileview.png)
-
-
-            mobileview.png
-          
+  <img src='https://raw.githubusercontent.com/harshdev-7275/Abu-studios/main/img/mobileview.png' width=''  />
 
 
 ---
